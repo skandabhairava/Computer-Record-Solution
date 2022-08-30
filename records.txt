@@ -1,0 +1,49 @@
+1. Function to find nth_root of a number
+Write a function nth_root that receives 2 parameters x and n, and returns the nth root of x, i.e x^1/n. Write the main program to call this function.
+
+2. Function to generate n digit random number
+Write a funtion that takes a number n, and then returns a randomly generated number, having exactly n digits. Write the main program to call this function.
+
+3. 
+Write a function that accepts principle, rate and time, and calculates the compound interest. Write the main program to call this function.
+
+4. [PLEASE DONT COPY THIS WRITE UR OWN]
+Write a menu driven program to create a calculator using user defined functions for various operations. Operations should include:
+  -> Compute
+  -> Recall the previously calculated operations(history)
+  -> Quit 
+
+5. [PLEASE DONT COPY THIS WRITE UR OWN]
+Create a module in python that has the following function definitions:
+  -> Add new acc details - Login id and password, for all social media or email accounts of the user
+  -> Modify acc details 
+  -> Display acc details
+  -> Define a passcode
+
+Write a menu driven program, that allows the user to:
+  -> Create a new account
+  -> Retrieve acc name (User needs to provide the passcode)
+  -> Retrieve passwords for an account (User needs to provide the passcode)
+  -> Modify an existing account (User needs to provide the passcode)
+  -> Exit
+
+6.
+Write a program using a function `prime` that accepts a number as an argument and checks the number is prime
+
+7.
+Write a function to accept a list, and find the sum of elements in the list. Write the main program and invoke the function
+
+8.
+Write a program in python to do the following: Create this text file, "file1.txt".
+
+FILE:
+Red Roses
+Blue Sky
+Green Grass
+Yellow Sun
+Red Straw Berries
+
+Replace Red=>White; Delete the line with "Green"; Show the file before and after modification. 
+
+9.
+Write a program to remove all the lines that contain the character 'a' in a file and write it to another file
