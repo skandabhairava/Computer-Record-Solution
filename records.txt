@@ -47,3 +47,33 @@ Replace Red=>White; Delete the line with "Green"; Show the file before and after
 
 9.
 Write a program to remove all the lines that contain the character 'a' in a file and write it to another file
+
+10.
+WAP to write into a file based on user input and separate the contents into upper case, lower case and other characters and write them into respective files.
+
+11.
+WAP in Python to do the following:
+
+Create a text file called Rhyme.txt with the following content:
+
+The itsy bitsy spider climbed up the water spout.
+
+Down came the rain, and washed the spider out.
+
+Out came the sun, and dried up all the rain,
+
+and the itsy bitsy spider went up the spout again.
+
+Index the words in these lines (give the word and line numbers they appear in) and write into another file called RhymeIndex.txt. Display the contents of RhymeIndex.txt.
+
+12.
+Create a binary file with name and roll number. Search for a given roll number and display the name, if not found, display appropriate message.
+
+13.
+Create a binary file, Hospital.dat with the following information: Patient name, Room number, Blood type. Accept room number from the user and search and update patient details for that room.
+
+14.
+Create a csv file with the following data: student name, Eng marks, Math marks, Sci marks, gender. Read the file and print marks details of all the girls.
+
+15.
+Create a CSV file by entering user-id and password, read and search the password for given userid.
