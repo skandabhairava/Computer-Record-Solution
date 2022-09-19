@@ -7,7 +7,7 @@ while True:
     print("2. Retrieve Account Name")
     print("3. Retrieve Password for an Account")
     print("4. Retrieve Details of an Account")
-    print("5. Modify an Existing Aaccount")
+    print("5. Modify an Existing Account")
     print("6. Exit")
 
     main_inp = int(input("Enter your option: "))
