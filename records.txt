@@ -77,3 +77,40 @@ Create a csv file with the following data: student name, Eng marks, Math marks, 
 
 15.
 Create a CSV file by entering user-id and password, read and search the password for given userid.
+
+16.
+Write a program for the following stack implementations
+1. PUSH             2. PEEK
+3. POP              4. DISPLAY
+
+17.
+Write queries for the following questions based on the table given below:
+1) Display ItemNo Name and PriceValue
+2) Display all the related info to Soap
+3) Display item info whose name starts with "V"
+4) Display report with ItemNo, Name and TotalPrice(TotalPrice = Price*Quantity)
+5) Display ItemName and Price in descending order based on Price
+6) Increase price value by 100
+7) Remove "powder" information
+8) Display item whose price is bbetween 50 and 100
+
+18. Write queries for the following questions based on the table given below:
+1) Show all the information about history department
+2) Show all faculty members & salary who joined in the month of July
+3) Show all faculty members who joined in the year 2007
+4) Arrange the teachers in ascending order of salary
+5) Display department values as upper case
+6) Display gender as lower case
+7) List all records where the age of the members is even
+
+19. Write queries for the following questions based on the table given below:
+1) Display count at distinct sports from the table CLUB
+2) Display the minimum age of female players in the CLUB
+3) Display the avg pay for karate
+4) Display total pay where date of application is greater than 31st Jan 1998
+
+20. Write queries for the following questions based on the table given below:
+1) Display minimum of "Avgmarks" only when Avgmarks > 5
+2) Display total stipend for grade B
+3) Display avg stipend for class 12A
+4) Display count of distinct grade
